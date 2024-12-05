@@ -1,0 +1,19 @@
+Ciência de Dados = Informática - Estaísitca - Área de Negócio
+Funções => Engenheiro de IA, Engenheiro de Dados, Engenheiro de Machien Learning, Cientista de Dados, Analista de Dados, Arquiteto de Dados.
+Treinamento de Uma ML => Definição do Problema, Escolha do Modelo, Implantação e Monitornado, Coleta e Pré-processamento de Dados, Treianemnto e Avaliação.
+ML = Desenvolvimento de Algorítimos que vão ser treinados a partir de dados.
+Capacidade do computador a partir de dados.
+DL = SubCampo da ML que utiliza as redes neurais profundas para modelar e resolver problemas complexos.
+
+Terminologias => Modelo, Treinamento, Dados de Treinamento, Dados de Teste, Overfitting(apreende muito bem os dados mas falha para dados novos), Underfitting(quanfo um modelo é muito simples para uma complexidade dos dados)
+
+Métodos Preditivos => Conjunto de dados que baseados em suas respostas vão dar um resultado uma previsão
+
+Método Super-Visionado => Rotulado ou seja já possui a classificação pré-definida
+Método Não-Supervisioando => Não Rotulado ou seja não se sabe oq são os dados e a classificação ainda não está feita
+
+Classificação em ML => Colocando em ordem com base em critérios
+Regressão => Fazer uma previsão com relação a um gráfico linear de dados
+
+
+IRIS
